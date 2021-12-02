@@ -7,12 +7,11 @@ CACHE MANIFEST
 CACHE: 
 
 2.0.png
-702.js
+jailbreak.js
 checker.js
 goldhen.js
 index.html
-payload702.html
-c-code.js
+payload.html
 int64.js
 ps4.js
 utils.js
