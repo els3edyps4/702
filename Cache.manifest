@@ -1,7 +1,5 @@
 CACHE MANIFEST 
-# ELS3EDY GoldHEN Host Menu 
-# v1.0 
-# 23/04/2021-16:19:18,81 
+# ELS3EDY GoldHEN Host Menu  
 
 
 CACHE: 
@@ -9,19 +7,13 @@ CACHE:
 702.js
 checker.js
 goldhen.js
-goldhen_1.0.js
-goldhen_1.1.js
-goldhen_1.1b3.js
 index.html
 payload702.html
 jb702\c-code.js
 mira702\c-code.js
-mira702\mira.js
-mira702\mira2.js
 webkit-7.02\int64.js
 webkit-7.02\ps4.js
 webkit-7.02\utils.js
-webrte.js
 
 FALLBACK: 
 index.html 
